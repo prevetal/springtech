@@ -1,0 +1,10 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="calendar-clock">
+<path id="Vector" d="M35.0005 12.5003V10.0003C35.0005 9.11627 34.6493 8.26842 34.0242 7.6433C33.3991 7.01818 32.5512 6.66699 31.6672 6.66699H8.33382C7.44977 6.66699 6.60192 7.01818 5.9768 7.6433C5.35168 8.26842 5.00049 9.11627 5.00049 10.0003V33.3337C5.00049 34.2177 5.35168 35.0656 5.9768 35.6907C6.60192 36.3158 7.44977 36.667 8.33382 36.667H14.1672" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M26.6665 3.33398V10.0007" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M13.3335 3.33398V10.0007" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M5.00049 16.666H13.3338" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M29.1665 29.1673L26.6665 27.084V23.334" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M36.6665 26.666C36.6665 29.3182 35.6129 31.8617 33.7376 33.7371C31.8622 35.6125 29.3187 36.666 26.6665 36.666C24.0143 36.666 21.4708 35.6125 19.5954 33.7371C17.7201 31.8617 16.6665 29.3182 16.6665 26.666C16.6665 24.0139 17.7201 21.4703 19.5954 19.5949C21.4708 17.7196 24.0143 16.666 26.6665 16.666C29.3187 16.666 31.8622 17.7196 33.7376 19.5949C35.6129 21.4703 36.6665 24.0139 36.6665 26.666V26.666Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

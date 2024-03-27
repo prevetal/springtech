@@ -1,0 +1,176 @@
+@media print,
+(max-width: 1439px)
+{
+    /*-------------------
+        Global styles
+    -------------------*/
+    .block
+    {
+        margin-bottom: 80px;
+    }
+
+
+
+    /*------------
+        Header
+    ------------*/
+    header
+    {
+        margin-bottom: 24px;
+        padding-top: 40px;
+    }
+
+
+    header .contacts
+    {
+        font-size: var(--font_size);
+
+        margin-left: 32px;
+    }
+
+
+    header .contacts .phone
+    {
+        font-size: 22px;
+    }
+
+
+    header .location
+    {
+        width: 200px;
+        margin-left: 32px;
+    }
+
+
+    header .callback_btn
+    {
+        font-size: 18px;
+
+        width: 200px;
+    }
+
+
+    header .menu
+    {
+        margin-top: 32px;
+    }
+
+
+
+    /*-------------
+        Sidebar
+    -------------*/
+
+
+
+    /*---------------
+        Page head
+    ---------------*/
+
+
+
+    /*----------------
+        Block head
+    ----------------*/
+
+
+
+    /*------------------
+        Form elements
+    ------------------*/
+
+
+
+    /*----------------
+        Typography
+    ----------------*/
+
+
+
+    /*----------------
+        Error info
+    ----------------*/
+    .error_info
+    {
+        padding-top: 48px;
+    }
+
+
+    .error_info .data
+    {
+        width: 500px;
+    }
+
+
+    .error_info .code
+    {
+        font-size: 232px;
+    }
+
+
+    .error_info .link
+    {
+        margin-top: 48px;
+    }
+
+
+    .error_info .link a
+    {
+        font-size: 18px;
+
+        width: 280px;
+    }
+
+
+    .error_info .image
+    {
+        margin-top: 68px;
+    }
+
+    .error_info .image img
+    {
+        width: 300px;
+    }
+
+
+
+    /*------------
+        Footer
+    ------------*/
+    footer
+    {
+        padding: 60px 0;
+    }
+
+
+    footer .contacts
+    {
+        font-size: 22px;
+    }
+
+
+    footer .contacts > *
+    {
+        width: calc(50% - 34px);
+    }
+
+
+    footer .links
+    {
+        margin-top: 40px;
+
+        column-gap: 68px;
+    }
+
+
+    footer .socials a + a
+    {
+        margin-left: 20px;
+    }
+
+
+
+    /*-----------
+        PopUp
+    -----------*/
+}
